@@ -1,2 +1,2 @@
 este es el archivo uno.md
-ahora mo modifico
+ahora lo modifico
